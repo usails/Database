@@ -1,0 +1,22 @@
+{
+  "name": "usails/database",
+  "type": "library",
+  "license": "MIT",
+
+  "description": "",
+  "keywords": [
+  ]
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "suggest": {
+    "ext-swoole": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP, require >= 1.7.19."
+  },
+  "autoload": {
+    "psr-4": {
+      "Usails\\Illuminate\\Database\\": "src"
+    }
+  }
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
