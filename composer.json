@@ -15,7 +15,7 @@
     "psr-4": {
       "Usails\\Illuminate\\Database\\": "src"
     }
-  }
+  },
   "prefer-stable": true,
   "minimum-stability": "dev"
 }
